@@ -13,6 +13,14 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: auto;
+	width: 600px;
+	margin-top: 0px;
+	border: 3px solid #931420;
 main {
 	clear: left;
 }
